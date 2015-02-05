@@ -14,6 +14,7 @@ namespace MathLibrary
         /// <param name="a"></param>
         /// <param name="b"></param>
         /// <returns></returns>
+	//Koodia kommentoidaan
         public static double Add(double a, double b)
         {
             return a + b;
